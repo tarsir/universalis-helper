@@ -1,0 +1,12 @@
+name = "universalis_helper"
+version = "0.1.0"
+
+[dependencies]
+gleam_stdlib = ">= 0.34.0 and < 2.0.0"
+wisp = "~> 0.16"
+gleam_erlang = "~> 0.23"
+mist = ">= 1.2.0 and < 2.0.0"
+gleam_http = "~> 3.5"
+
+[dev-dependencies]
+gleeunit = "~> 1.0"
